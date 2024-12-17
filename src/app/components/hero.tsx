@@ -24,7 +24,7 @@ export default function hero(){
 
       <div>
         <h1 className="font-bold text-center mt-10 text-[24px]">
-          EDITOR'S PICK
+          EDITORS PICK
         </h1>
         <p className="text-[14px] text-center mt-2">
           Problem try to resolve the conflict between

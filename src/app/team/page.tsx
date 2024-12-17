@@ -1,6 +1,5 @@
 import React from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { SlArrowRight } from "react-icons/sl"
 import Navbar2 from "../components/navbar2";
 import Heropicture from "../components/heropicture";

@@ -36,7 +36,7 @@ export default function Featurepost () {
         </div>
         
         <h2 className="text-[20px] text-[#252B42] mt-2 mb-3">
-          Loudest à la Madison #1 (L'Integral)
+          Loudest à la Madison #1 (LIntegral)
         </h2>
         <p className="text-[#737373] text-[14px] mb-5">
           We focus on ergonomics and meeting you where you work. It’s only a
@@ -80,10 +80,10 @@ export default function Featurepost () {
         </div>
         
         <h2 className="text-[20px] text-[#252B42] mt-2 mb-3">
-          Loudest à la Madison #1 (L'Integral)
+          Loudest à la Madison #1 (LIntegral)
         </h2>
         <p className="text-[#737373] text-[14px] mb-5">
-          We focus on ergonomics and meeting you where you work. It’s only a
+          We focus on ergonomics and meeting you where you work. Its only a
           keystroke away.
         </p>
         <div className="flex items-center justify-between text-[#737373] text-[12px]">
@@ -123,7 +123,7 @@ export default function Featurepost () {
         </div>
         
         <h2 className="text-[20px] text-[#252B42] mt-2 mb-3">
-          Loudest à la Madison #1 (L'Integral)
+          Loudest à la Madison #1 (LIntegral)
         </h2>
         <p className="text-[#737373] text-[14px] mb-5">
           We focus on ergonomics and meeting you where you work. It’s only a

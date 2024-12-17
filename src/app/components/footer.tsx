@@ -1,6 +1,5 @@
 import React from "react";
 import { FaInstagram } from "react-icons/fa"
-import { BsYoutube } from "react-icons/bs"
 import { FaFacebook } from "react-icons/fa"
 import { FaTwitter } from "react-icons/fa"
 export default function footer(){

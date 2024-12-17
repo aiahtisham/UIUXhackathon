@@ -1,5 +1,4 @@
 import React from "react"
-import Link from "next/link"
 import Navbar from "./components/navbar"
 import Listing from "./components/listing"
 import Hero from "./components/hero"

@@ -1,6 +1,4 @@
 import React from "react";
-import Link from "next/link";
-import Image from "next/image";
 
 import Navbar2 from "../components/navbar2";
 import Topsection2 from "../components/topsection2";
@@ -57,8 +55,8 @@ export default function team(){
 
     <div className="flex flex-col justify-center items-center mb-10">
         <img src="/image/arrow2.png" alt="arrow" className="mb-1" />
-        <h6 className="text-[16px] text-[#252B42] font-bold">WE Can't WAIT TO MEET YOU</h6>
-        <h2 className="text-[58px] text-[#252B42] font-bold mb-4">Let's Talk</h2>
+        <h6 className="text-[16px] text-[#252B42] font-bold">WE Cant WAIT TO MEET YOU</h6>
+        <h2 className="text-[58px] text-[#252B42] font-bold mb-4">Lets Talk</h2>
         <button className="h-[52px] w-[186px] rounded-md bg-[#23A6F0] text-[14px] text-white bg">Try it free now</button>
       </div>
       <Footer/>

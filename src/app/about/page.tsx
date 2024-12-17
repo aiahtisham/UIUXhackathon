@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "next/link";
 import Footer from "../components/footer";
 import Navbar2 from "../components/navbar2";
 import Btsection from "../components/btsection";
